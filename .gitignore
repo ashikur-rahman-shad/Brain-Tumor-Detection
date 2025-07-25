@@ -1,0 +1,7 @@
+.venv/
+.conda/
+__pycache__/
+dataset/
+yolov12/
+Brain Tumor Detection/
+runs/
